@@ -1,0 +1,4 @@
+# Ignore transient editor and Python cache files; keep Snowflake source files.
+.DS_Store
+__pycache__/
+*.pyc
